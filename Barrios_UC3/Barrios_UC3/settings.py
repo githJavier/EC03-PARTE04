@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    'miapp',  # Asegúrate de que esté presente y en la posición correcta
 ]
 
 MIDDLEWARE = [
